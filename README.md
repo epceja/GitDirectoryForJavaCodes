@@ -1,2 +1,2 @@
 # GitDirectoryForJavaCodes
-Repositorio para ser utilizado en el curso de Java - Code Gym
+Code Gym - Java course repository - Mentor: Said Olano Garcia.
